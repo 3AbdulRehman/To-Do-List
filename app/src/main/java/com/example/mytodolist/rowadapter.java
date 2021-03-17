@@ -72,6 +72,8 @@ public class rowadapter extends RecyclerView.Adapter<rowholder> {
 
     }
 
+
+
     @Override
     public int getItemCount() {
         return models.size();
